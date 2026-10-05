@@ -1,1 +1,3 @@
 primer texto de practica
+
+segundo texto de practica, el primero ya se añadió con el commit
