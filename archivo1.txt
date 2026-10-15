@@ -2,4 +2,6 @@ primer texto de practica
 
 segundo texto de practica, el primero ya se añadió con el commit
 
-tercera linea de texto
+tercera linea de texto}
+
+este texto solo debe aparecer si estas en la rama_1
