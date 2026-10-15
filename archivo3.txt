@@ -1,1 +1,4 @@
 primer párrafo en el archivo 3
+
+este párrafo solo debe aparecer en la rama2
+no debe aparecer en la rama 1 o main
