@@ -1,0 +1,7 @@
+print("hello world")
+
+# Este es un comentario en python
+
+pepe = "lucho"
+
+print(f"pepe {pepe}")
